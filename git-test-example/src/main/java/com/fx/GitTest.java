@@ -6,5 +6,6 @@ public class GitTest {
         System.out.printf("", "hello git in the idea2");
         System.out.printf("modify by master");
         System.out.printf("modify by hot-fix");
+        System.out.println("修改");
     }
 }
