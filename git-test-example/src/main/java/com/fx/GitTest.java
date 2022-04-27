@@ -7,5 +7,6 @@ public class GitTest {
         System.out.printf("modify by master");
         System.out.printf("modify by hot-fix");
         System.out.println("修改");
+        System.out.println("修改第二次");
     }
 }
